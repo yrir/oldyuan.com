@@ -1,0 +1,28 @@
+# Blog settings
+permalink: /blog/:title
+
+
+# My variables
+name: yuianch'blog
+description: 世界是美好的，甚至黑暗和沉寂也是如此。无论出于什么样环境，都要不断努力，都要学会满足。--海伦·凯勒
+url: https://yuianch.github.io
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
