@@ -53,7 +53,7 @@
 |EDIUS|官方：https://www.grassvalley.com/products/subcat-editing_software/<br>~~马克丁：http://www.ediuschina.com/~~|
 |CorelDraw|官方：https://www.coreldraw.com/en/<br>~~马克丁：http://www.coreldrawchina.com/~~|
 |Keyshot|官方：https://www.keyshot.com/<br>~~马克丁：http://keyshot.mairuan.com/~~|
-|ZBrush|官方：https://pixologic.com/zbrush/features/overview/<br>~~马克丁http://www.zbrushcn.com/~~|
+|ZBrush|官方：https://pixologic.com/zbrush/features/overview/<br>~~马克丁:http://www.zbrushcn.com/~~|
 |MindManager|官方：https://www.mindjet.com/mindmanager/<br>~~马克丁：http://www.mindmanager.cn/~~|
 |iMindMap|官方：https://imindmap.com/zh-cn/<br>~~马克丁：http://www.imindmap.cc/~~|
 |FL Studio|官方：https://www.image-line.com/flstudio/<br>~~马克丁：http://www.flstudiochina.com/~~|
