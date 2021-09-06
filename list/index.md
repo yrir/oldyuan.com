@@ -14,6 +14,4 @@ layout: list
 
 [Clipconverter](https://www.clipconverter.cc/) - Youtube视频下载
 
-[大数据导航](https://hao.199it.com/) - 各种大数据查询工具
-
 More coming soon
