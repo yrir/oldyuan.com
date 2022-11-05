@@ -19,6 +19,8 @@ sass:
   style: :compressed
   sass_dir: _sass
 
+# darkTheme
+remote_theme: "dracula/gh-pages"
 
 # Markdown
 markdown: kramdown
