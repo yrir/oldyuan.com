@@ -14,13 +14,19 @@ include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
 
+# darkTheme
+remote_theme: "dracula/gh-pages"
+
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+
+
 # Sass
 sass:
   style: :compressed
   sass_dir: _sass
 
-# darkTheme
-remote_theme: "dracula/gh-pages"
 
 # Markdown
 markdown: kramdown
