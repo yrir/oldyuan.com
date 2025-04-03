@@ -29,7 +29,8 @@
 | 冰点还原 | 官方：https://www.faronics.com/zh-hans/<br>~~马克丁：http://www.bingdianhuanyuan.cn/~~ |
 
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| 名称     	| 地址                                                                                         	|
+|----------	|----------------------------------------------------------------------------------------------	|
+| 会声会影 	| 官方：https://www.videostudiopro.com/en/<br />~~马克丁：http://www.huishenghuiying.com.cn/~~ 	|
+| Vegas    	| 官方：https://www.vegascreativesoftware.com/us/<br />~~马克丁：http://www.vegaschina.cn/~~   	|
+|          	|                                                                                              	|
