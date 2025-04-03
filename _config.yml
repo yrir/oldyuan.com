@@ -21,7 +21,7 @@ sass:
 
 
 # Markdown
-markdown: GFM
+# markdown: GFM
 # markdown: kramdown
 # highlighter: rouge
 # kramdown:
