@@ -1,51 +1,3 @@
-**视频编辑软件**
-[会声会影](https://www.videostudiopro.com/en/) -Videostudio
-~~马克丁地址: http://www.huishenghuiying.com.cn/~~
-[]()
-[]()
-
-**图像处理软件**
-[CorelDRAW](https://www.coreldraw.com/en/) -CorelDRAW Graphics Suit
-[]()
-[]()
-
-**思维导图**
-[MindManager](https://www.mindjet.com/) -思维导图
-[]()
-
-**音频工具软件**
-[]()
-[]()
-[]()
-
-**Mac应用软件**
-[]()
-[]()
-[]()
-
-**教育专用软件**
-[]()
-[]()
-[]()
-
-**标签打印软件**
-[]()
-[]()
-[]()
-
-**办公应用软件**
-[]()
-[]()
-
-**远程控制软件**
-[]()
-[]()
-
-**数据恢复软件**
-[]()
-[]()
-
-
 |名称|地址|
 |:--:|:--:|
 |会声会影|官方：https://www.videostudiopro.com/en/<br>~~马克丁：http://www.huishenghuiying.com.cn/~~|
@@ -74,7 +26,3 @@
 |Xmanager|官方：https://www.netsarang.com/<br>~~马克丁：http://www.xshellcn.com/~~|
 |EasyRecovery|官方：<br>~~马克丁：http://www.easyrecoverychina.com/~~|
 |冰点还原|官方：https://www.faronics.com/zh-hans/<br>~~马克丁：http://www.bingdianhuanyuan.cn/~~|
-||官方：<br>~~马克丁：~~|
-||官方：<br>~~马克丁：~~|
-||官方：<br>~~马克丁：~~|
-||官方：<br>~~马克丁：~~|
