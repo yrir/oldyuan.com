@@ -1,10 +1,10 @@
 |名称|地址|
 |:--:|:--:|
-|会声会影|官方：https://www.videostudiopro.com/en/<br \>~~马克丁：http://www.huishenghuiying.com.cn/~~|
-|Vegas|官方：https://www.vegascreativesoftware.com/us/<br \>~~马克丁：http://www.vegaschina.cn/~~|
-|EDIUS|官方：https://www.grassvalley.com/products/subcat-editing_software/<br \>~~马克丁：http://www.ediuschina.com/~~|
-|CorelDraw|官方：https://www.coreldraw.com/en/<br \>~~马克丁：http://www.coreldrawchina.com/~~|
-|Keyshot|官方：https://www.keyshot.com/<br \>~~马克丁：http://keyshot.mairuan.com/~~|
+|会声会影|官方：https://www.videostudiopro.com/en/<br />~~马克丁：http://www.huishenghuiying.com.cn/~~|
+|Vegas|官方：https://www.vegascreativesoftware.com/us/<br />~~马克丁：http://www.vegaschina.cn/~~|
+|EDIUS|官方：https://www.grassvalley.com/products/subcat-editing_software/<br />~~马克丁：http://www.ediuschina.com/~~|
+|CorelDraw|官方：https://www.coreldraw.com/en/<br />~~马克丁：http://www.coreldrawchina.com/~~|
+|Keyshot|官方：https://www.keyshot.com/<br />~~马克丁：http://keyshot.mairuan.com/~~|
 |ZBrush|官方：https://pixologic.com/zbrush/features/overview/<br>~~马克丁:http://www.zbrushcn.com/~~|
 |MindManager|官方：https://www.mindjet.com/mindmanager/<br>~~马克丁：http://www.mindmanager.cn/~~|
 |iMindMap|官方：https://imindmap.com/zh-cn/<br>~~马克丁：http://www.imindmap.cc/~~|
@@ -26,9 +26,6 @@
 |Xmanager|官方：https://www.netsarang.com/<br>~~马克丁：http://www.xshellcn.com/~~|
 |EasyRecovery|官方：<br>~~马克丁：http://www.easyrecoverychina.com/~~|
 |冰点还原|官方：https://www.faronics.com/zh-hans/<br>~~马克丁：http://www.bingdianhuanyuan.cn/~~|
-
-
-
 
 
 {% rowheaders %}
