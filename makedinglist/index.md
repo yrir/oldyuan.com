@@ -27,3 +27,9 @@
 | Xmanager | 官方：https://www.netsarang.com/<br>~~马克丁：http://www.xshellcn.com/~~ |
 | EasyRecovery | 官方：<br>~~马克丁：http://www.easyrecoverychina.com/~~ |
 | 冰点还原 | 官方：https://www.faronics.com/zh-hans/<br>~~马克丁：http://www.bingdianhuanyuan.cn/~~ |
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
