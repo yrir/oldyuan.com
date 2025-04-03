@@ -21,9 +21,11 @@ sass:
 
 
 # Markdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM #Github Flavored Markdown
-  hard_wrap: false  
-  syntax_highlighter: rouge
+markdown:GFM
+
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+  # input: GFM #Github Flavored Markdown
+  # hard_wrap: false  
+  # syntax_highlighter: rouge
