@@ -28,8 +28,14 @@
 |冰点还原|官方：https://www.faronics.com/zh-hans/<br>~~马克丁：http://www.bingdianhuanyuan.cn/~~|
 
 
-| Name   | Vocation         |
-| ------ | ---------------- |
-| Mona   | GitHub mascot    |
-| Tom    | Mouse antagonist |
-| Hobbes | Best friend      |
+
+
+
+{% rowheaders %}
+
+|   Name      | Mona | Tom    | Hobbes |
+|-------------|------|--------|--------|
+|Type of cat  | Octo | Tuxedo | Tiger  |
+|Likes to swim| Yes  | No     | No     |
+
+{% endrowheaders %}
