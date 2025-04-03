@@ -1,6 +1,6 @@
 
 | 名称 | 地址 |
-| :--: | :--: |
+| :---: | :---: |
 | 会声会影 | 官方：https://www.videostudiopro.com/en/<br />~~马克丁：http://www.huishenghuiying.com.cn/~~ |
 | Vegas | 官方：https://www.vegascreativesoftware.com/us/<br />~~马克丁：http://www.vegaschina.cn/~~ |
 | EDIUS | 官方：https://www.grassvalley.com/products/subcat-editing_software/<br />~~马克丁：http://www.ediuschina.com/~~ |
