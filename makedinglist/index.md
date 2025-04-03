@@ -27,10 +27,3 @@
 | Xmanager | 官方：https://www.netsarang.com/<br>~~马克丁：http://www.xshellcn.com/~~ |
 | EasyRecovery | 官方：<br>~~马克丁：http://www.easyrecoverychina.com/~~ |
 | 冰点还原 | 官方：https://www.faronics.com/zh-hans/<br>~~马克丁：http://www.bingdianhuanyuan.cn/~~ |
-
-
-| 名称     	| 地址                                                                                         	|
-|----------	|----------------------------------------------------------------------------------------------	|
-| 会声会影 	| 官方：https://www.videostudiopro.com/en/<br />~~马克丁：http://www.huishenghuiying.com.cn/~~ 	|
-| Vegas    	| 官方：https://www.vegascreativesoftware.com/us/<br />~~马克丁：http://www.vegaschina.cn/~~   	|
-|          	|                                                                                              	|
