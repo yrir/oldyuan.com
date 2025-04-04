@@ -26,7 +26,7 @@ sass:
 # https://github.com/github/jekyll-commonmark-ghpages
 
 markdown: kramdown
-# highlighter: rouge
+highlighter: rouge
 # lsi: false
 # excerpt_separator: "\n\n"
 # incremental: false
@@ -39,6 +39,6 @@ kramdown: # https://kramdown.gettalong.org/options.html
   # auto_ids: true
   # footnote_nr: 1
   # entity_output: as_char
-  toc_levels: 1..6
+  # toc_levels: 1..6
   # smart_quotes: lsquo,rsquo,ldquo,rdquo
   # enable_coderay: false
