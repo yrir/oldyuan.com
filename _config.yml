@@ -21,14 +21,13 @@ sass:
 
 
 # Markdown
-
-# Conversion
-markdown            : kramdown
-highlighter         : rouge
-lsi                 : false
-excerpt_separator   : "\n\n"
-incremental         : false
-
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
+  syntax_highlighter: rouge
+
+gems: [ "jemoji" ]
+
