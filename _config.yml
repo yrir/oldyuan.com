@@ -25,17 +25,23 @@ sass:
 # Markdown Options https://jekyllrb.com/docs/configuration/markdown/
 # https://github.com/github/jekyll-commonmark-ghpages
 
-markdown: kramdown
-highlighter: rouge
+markdown: CommonMarkGhPages # GFM
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+
+# markdown: kramdown
+# highlighter: rouge
 # lsi: false
 # excerpt_separator: "\n\n"
 # incremental: false
 
 # Markdown Processing https://jekyllrb.com/docs/configuration/markdown/
-kramdown: # https://kramdown.gettalong.org/options.html
-  input: GFM
-  header_offset: 0
-  hard_wrap: false
+# kramdown: # https://kramdown.gettalong.org/options.html
+  # input: GFM
+  # header_offset: 0
+  # hard_wrap: false
   # auto_ids: true
   # footnote_nr: 1
   # entity_output: as_char
