@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-plugins 'github-pages'
+gem 'github-pages'
